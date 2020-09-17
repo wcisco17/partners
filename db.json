@@ -1,0 +1,45 @@
+{
+  "partners": [
+    {
+      "id": "96b96e31-77e1-48be-bf87-d1e7bfba04c3",
+      "school_name": "Lillebaelt Academy University of Applied Sciences",
+      "content_description": "Lillebaelt Academy University of Applied Sciences (EAL) is the largest business academy in Southern Denmark. With more than 4000 students divided…",
+      "logo": "https://res.cloudinary.com/dd7oj4ita/image/upload/v1600329657/ucl-logo_2x_ihfclh.png",
+      "cover_image": "https://res.cloudinary.com/dd7oj4ita/image/upload/v1600329405/dsc1638-seebladsgade-ucel-oktober_23441_2x_qth1hk.png",
+      "abous_us": {
+        "header_content": "UCL University College was founded 1 August 2018 after the merger between Business Academy Lillebaelt and University College Lillebaelt. Situated in the Region of Southern Denmark, home to more than 1.2 million Danes, UCL University College provides a talented workforce and offers opportunities for higher and continuing education and applied research to a variety of end users.",
+        "title": "Campus",
+        "content": "The newly rebuilt campus in Odense, Denmark’s third largest city, is quite uniquely situated between the city center and the harbour – and only two minutes away from the train station and the old city center. Opened in the summer of 2016, the building thus steams from innovative thinking and modern outstanding Scandinavian style Campus in Vejle, the capital city of the Region of Southern Denmark, has a very optimal location on the so-called “educational street” where other educational institutions also have their address. Vejle lies in a fast-growing area of business and industry making the location quite relevant for the academy.",
+        "cover_title": "The international perspective as a part of Academy’s overall strategy",
+        "cover_content": "One of the primary tasks for EAL as an educational institution is to make sure that students are ready to compete in a global world. Internationalization is therefore a prioritized matter and part of the academy’s overall strategy.",
+        "cover_background_content": "https://res.cloudinary.com/dd7oj4ita/image/upload/v1600329699/EAL-down_2x_wmiboe.png"
+      },
+      "reports": [
+        {
+          "id": "2fb10426-911f-42cd-ad39-c1541dff14be",
+          "title": "Tracking universal health coverage: First global monitoring report",
+          "content": "Presents the data available to monitor universal health coverage, including coverage of selected interventions and financial protection…",
+          "author": "Dr. Maurice Cuypers",
+          "cover_image": "https://images.pexels.com/photos/356040/pexels-photo-356040.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+          "date": "June 12, 2020"
+        },
+        {
+          "id": "2fb10426-911f-42cd-ad39-c1541dff14be",
+          "title": "Tracking universal health coverage: First global monitoring report",
+          "content": "Presents the data available to monitor universal health coverage, including coverage of selected interventions and financial protection…",
+          "author": "Dr. Maurice Cuypers",
+          "cover_image": "https://images.pexels.com/photos/1181622/pexels-photo-1181622.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+          "date": "June 12, 2020"
+        },
+        {
+          "id": "2fb10426-911f-42cd-ad39-c1541dff14be",
+          "title": "Tracking universal health coverage: First global monitoring report",
+          "content": "Presents the data available to monitor universal health coverage, including coverage of selected interventions and financial protection…",
+          "author": "Dr. Maurice Cuypers",
+          "cover_image": "https://images.pexels.com/photos/137618/pexels-photo-137618.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+          "date": "June 12, 2020"
+        }
+      ]
+    }
+  ]
+}
